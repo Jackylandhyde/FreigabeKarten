@@ -1,2 +1,2 @@
 # FreigabeKarten
-Freigabe Karten Drucken Easyway Din A5
+Freigabe Karten Drucken EasyWay Din A5
